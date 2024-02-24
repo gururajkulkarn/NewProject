@@ -1,13 +1,13 @@
 
 import React from "react";
-import AppRouter from "./AppRouter";
+import CompRouter from "./Components/CompRouter";
 
 
 function App() {
   return (
     <>
 
-<AppRouter/>
+<CompRouter/>
 
     </>
   );

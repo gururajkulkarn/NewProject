@@ -1,44 +1,40 @@
 {
   "data": [
     {
-      "name": "DFGfghfhfg",
-      "email": "DFG",
-      "id": 5
+      "name": "AVINASH",
+      "email": "dfgdfg@gmail.com",
+      "id": 3,
+      "status": "Inactive"
     },
     {
-      "name": "dfgdfgdfgdfg",
+      "name": "ravi",
+      "email": "dfgdf",
+      "id": 4,
+      "status": "Inactive"
+    },
+    {
+      "name": "guru",
+      "email": "guru@gmail.com",
+      "id": 5,
+      "status": "Active"
+    },
+    {
+      "name": "rakesh",
       "email": "jhkjhkjhkhjkhk@gmail",
-      "id": 7
+      "id": 7,
+      "status": "Inactive"
     },
     {
-      "name": "",
-      "email": "",
-      "id": 8
+      "name": "dfg",
+      "email": "dfgdf",
+      "id": 9,
+      "status": "Inactive"
     },
     {
-      "name": "",
-      "email": "",
-      "id": 9
-    },
-    {
-      "name": "",
-      "email": "",
-      "id": 10
-    },
-    {
-      "name": "",
-      "email": "",
-      "id": 11
-    },
-    {
-      "name": "",
-      "email": "",
-      "id": 12
-    },
-    {
-      "name": "gf",
+      "name": "naresh",
       "email": "dfgdfg",
-      "id": 13
+      "status": "Active",
+      "id": 12
     }
   ]
 }
